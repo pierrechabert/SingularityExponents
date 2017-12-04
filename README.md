@@ -28,7 +28,7 @@ To play (computation, plots, anomalies enlightment with different functions) wit
 
 To get another approach of the function, an Ipython notebook (compute_SE_SST.ipynb) is available on the folder. At the end, you should get this kind of outputs:
 
-![Reference SST](SST.png)
+![Reference SST](http://Users/rasoloson/Documents/IMEDEA/front_detection/f2py_opt_opt7_jnb_github/SingularityExponents/SST.png)
 ![Computed SE](SE.png)
 
 
