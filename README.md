@@ -30,6 +30,8 @@ To get another approach of the function, an Ipython notebook (compute_SE_SST.ipy
 
 ![Reference SST_Computed_SE](SST_SE.png)
 
+DOI :
+https://zenodo.org/badge/latestdoi/113035085
 
 
 **Acknowledgements**
