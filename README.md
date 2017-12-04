@@ -35,7 +35,9 @@ To get another approach of the function, an Ipython notebook (compute_SE_SST.ipy
 ![Reference SST_Computed_SE](SST_SE.png)
 
 
+**Furtherwork**
 
+The updates to come are to extend the cloud areas to erase to frontal detection areas at the limit between clouds and the sea. Thus, a useful automatic frontal detection software would have been created.
 
 **Acknowledgements**
 
