@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/latestdoi/113035085)](https://zenodo.org/badge/latestdoi/113035085)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1076424.svg)](https://zenodo.org/badge/latestdoi/113035085)
 
 
 **Motivation**
