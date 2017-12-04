@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/latestdoi/113035085)](https://zenodo.org/badge/latestdoi/113035085)
+
+
+
 **Motivation**
 
 This module can be used to process all kind of data, as long as the input is a 2D array (it can be a black and white picture, SST, altimetry, chlorophyll ...), but is appropriate for the L2 Aqua-Modis SST data. In an oceanographical context, the Singularity Exponents (SE) computation can lead to an analysis of some particular shapes of structures. The SE study is comparable to the one of the gradients, but it can be more relevant in the sense it uses a pixel by pixel approach, that lead to a dimensionless number, that can detect more precisely some anomalies. 
@@ -30,11 +34,12 @@ To get another approach of the function, an Ipython notebook (compute_SE_SST.ipy
 
 ![Reference SST_Computed_SE](SST_SE.png)
 
-DOI :
-https://zenodo.org/badge/latestdoi/113035085
+
 
 
 **Acknowledgements**
+
+Evan Mason (@evanmason), Ananda Pascual, Simón Ruiz, Guillaume Charria
 
 Oriol Pont, Antonio Turiel, and Hussein Yahia. An Optimized Algorithm for the Evaluation of Local Singularity Exponents in Digital Signals, pages 346–357. Springer Berlin Heidelberg, Berlin, Heidelberg, 2011.
 
