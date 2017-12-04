@@ -28,8 +28,8 @@ To play (computation, plots, anomalies enlightment with different functions) wit
 
 To get another approach of the function, an Ipython notebook (compute_SE_SST.ipynb) is available on the folder. At the end, you should get this kind of outputs:
 
-![Reference SST](SST.png)
-![Computed SE](SE.png)
+![Reference SST_Computed_SE](SST_SE.png)
+
 
 
 **Acknowledgements**
