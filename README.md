@@ -27,6 +27,8 @@ To play (computation, plots, anomalies enlightenment with different functions) w
 > ipython
 > In [1]: %run make_SE_module.py
 
+Two netCDF files are available in the folder: "A2017206020500.L2_LAC_SST4.nc" and "SE_2017206.nc". The first one has been downloaded on the [NASA OceanColor website]( https://oceancolor.gsfc.nasa.gov/cgi/browse.pl) and is a L2 SST4 Aqua-MODIS netCDF file of the Western Mediterranean Sea of the 25/07/17. The second one is the output file containing the Singularity Exponents computed values on a zoom of the Alborán Sea. These are the input/output files used/obtained in the Jupyter Notebook that follows. The example plot in the folder comes also from this file.
+
 
 **IPython Jupyter Notebook**
 
