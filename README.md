@@ -43,7 +43,7 @@ The updates to come are to extend the cloud areas to erase to frontal detection 
 
 **Acknowledgements**
 
-Evan Mason (@evanmason), Ananda Pascual, Simón Ruiz, Guillaume Charria
+This module has been developed during an internship at IMEDEA (CSIC-UIB) in Mallorca, Spain, in 2017, under the supervision of Ananda Pascual and Simón Ruiz, and with the help of Evan Mason (@evanmason) and Guillaume Charria (Ifremer).
 
 Oriol Pont, Antonio Turiel, and Hussein Yahia. An Optimized Algorithm for the Evaluation of Local Singularity Exponents in Digital Signals, pages 346–357. Springer Berlin Heidelberg, Berlin, Heidelberg, 2011.
 
