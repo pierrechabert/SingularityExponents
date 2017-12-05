@@ -8,16 +8,13 @@
 from netCDF4 import Dataset
 import numpy as np
 import matplotlib.pyplot as plt
-import datetime
 from mpl_toolkits.basemap import Basemap
-from mpl_toolkits.axes_grid1 import make_axes_locatable
 from scipy.interpolate import griddata
 import warnings
 import time
 from numba import jit
 import loop_SE_fortran
 import numpy.ma as ma
-import matplotlib.colors as colors
 import warnings
 
 warnings.filterwarnings("ignore", category=RuntimeWarning)
