@@ -34,7 +34,7 @@ Two netCDF files are available in the folder: "A2017206020500.L2_LAC_SST4.nc" an
 
 To get another approach of the function, an Jupyter notebook (compute_SE_SST.ipynb) is available on the folder. At the end, you should get this kind of outputs:
 
-![Reference SST_Computed_SE](SST_SE.png)
+![Reference SST_Computed_SE](examples/SST_SE.png)
 
 
 **Further work**
@@ -52,3 +52,5 @@ Özge Yelekçi, Guillaume Charria, Xavier Capet, Gilles Reverdin, Joël Sudre
 
 NASA Goddard Space Flight Center, Ocean Ecology Laboratory, Ocean Biology Processing Group. Moderate-resolution Imaging Spectroradiometer (MODIS) Aqua {L2 SST} Data; NASA OB.DAAC, Greenbelt, MD, USA.
 Accessed on 10/19/2017.
+
+ADT images generated using E.U. Copernicus Marine Service Information. CMEMS product : SEALEVEL_GLO_PHY_L4_NRT_OBSERVATIONS_008_046
