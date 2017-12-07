@@ -32,14 +32,18 @@ Two netCDF files are available in the folder: "A2017206020500.L2_LAC_SST4.nc" an
 
 **IPython Jupyter Notebook**
 
-To get another approach of the function, an Jupyter notebook (compute_SE_SST.ipynb) is available on the folder. At the end, you should get this kind of outputs:
+To get another approach of the function, an Jupyter notebook (compute_SE_SST.ipynb) is available on the folder. At the end, you should get this kind of outputs for the SST/SE computation:
 
 ![Reference SST_Computed_SE](examples/SST_SE.png)
+
+An other notebook is available (compute_SE_ADT.ipynb) to show and explain the module can be use with different kind of input data. The results for the ADT/SE computation should be like:
+
+![Reference SST_Computed_SE](examples/ADT_SE.png)
 
 
 **Further work**
 
-The updates to come are to extend the cloud areas to erase to frontal detection areas at the limit between clouds and the sea. Thus, a useful automatic frontal detection software would have to be created.
+The updates to come are to extend the cloud areas to erase to frontal detection areas at the limit between clouds and the sea for the L2 SST data. For the ADT input, as it is a L4 product and there is no cloud, the frontal detection is possible. Thus, a useful automatic frontal detection software is created.
 
 **Acknowledgements**
 
