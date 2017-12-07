@@ -27,7 +27,7 @@ To play (computation, plots, anomalies enlightenment with different functions) w
 > ipython
 > In [1]: %run make_SE_module.py
 
-Two netCDF files are available in the folder: "A2017206020500.L2_LAC_SST4.nc" and "SE_2017206.nc". The first one has been downloaded on the [NASA OceanColor website]( https://oceancolor.gsfc.nasa.gov/cgi/browse.pl) and is a L2 SST4 Aqua-MODIS netCDF file of the Western Mediterranean Sea of the 25/07/17. The second one is the output file containing the Singularity Exponents computed values on a zoom of the Alborán Sea. These are the input/output files used/obtained in the Jupyter Notebook that follows. The example plot in the folder comes also from this file.
+Some netCDF files are available in the folder: "A2017206020500.L2_LAC_SST4.nc" and "SE_2017206.nc". The first one has been downloaded on the [NASA OceanColor website]( https://oceancolor.gsfc.nasa.gov/cgi/browse.pl) and is a L2 SST4 Aqua-MODIS netCDF file of the Western Mediterranean Sea of the 25/07/17. The second one is the output file containing the Singularity Exponents computed values on a zoom of the Alborán Sea. These are the input/output files used/obtained in the Jupyter Notebook that follows. The example plot in the folder comes also from this file. The last netCDF file is "dataset-duacs-nrt-global-merged-allsat-phy-l4-v3_1512638118668.nc" and has been downloaded from [Copernicus - Marine Environment Monitoring Service](http://marine.copernicus.eu/), and is a L4 ADT product. The output plots are also available on the folder "examples", to show the SingularityExponents module can be used on different types of data. A Jupyter Notebook is also available.
 
 
 **IPython Jupyter Notebook**
